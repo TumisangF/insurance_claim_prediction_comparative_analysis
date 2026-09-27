@@ -41,8 +41,11 @@ All three are compared across three complementary dimensions, not just one:
 
 ```
 .
-├── insurance_claim_prediction_comparative_analysis.ipynb   # Full analysis notebook
-├── readme_assets/                                          # Images used in this README
+├── data/france_regions.geojson
+├── figures
+├── notebooks/insurance_claim_prediction_comparative_analysis.ipynb   
+├── results
+├── src                                          
 └── README.md
 ```
 
