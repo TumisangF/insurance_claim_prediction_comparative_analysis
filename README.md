@@ -5,7 +5,7 @@ An empirical comparison of a Poisson GLM, XGBoost, and LightGBM for motor insura
 > Bachelor Thesis — B.Sc. Data Science, IU International University of Applied Sciences
 > Author: Tumisang Fokase
 
-![Ordered Lorenz curves comparing risk-ranking performance of the GLM, XGBoost, and LightGBM](readme_assets/lorenz_curves.png)
+![Ordered Lorenz curves comparing risk-ranking performance of the GLM, XGBoost, and LightGBM](lorenz_curves.png)
 
 ## Overview
 
